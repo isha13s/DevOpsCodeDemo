@@ -3,3 +3,4 @@ This is to test poll SCM with Upstreem downstream pipeline
 new commit
 
 CICD testing continous still, verify commit in github should run a job in Jenkins and deploy via docker freestyle pipieline
+testing pipeline style jenkins CICD
